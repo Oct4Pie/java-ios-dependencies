@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 26 22:11:14 PDT 2020
+log4j-1.2.12.jar>gluon-releases=
+log4j-1.2.12.pom>gluon-releases=
